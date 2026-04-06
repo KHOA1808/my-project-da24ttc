@@ -1,3 +1,61 @@
-p{
-	color:green;
+
+
+table, th, td {
+  border: 40px solid yellow;
+}
+th, td {
+  padding: 35px;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 25px;
+}
+p {
+  font-family: Tahoma, Verdana, sans-serif;
+}
+body {
+  background-color: lightgreen;
+}
+p {
+  border: 3px solid red;
+  border-radius: 20px;
+}
+p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+p {
+  margin: 20px 20px 20px 35px;
+}
+h1 {
+  margin-bottom: 50px;
+}
+
+h2 {
+  margin-top: 50px;
+}
+p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+li {
+  font-size: 30px;
+}
+p {
+	font-size: 20px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
